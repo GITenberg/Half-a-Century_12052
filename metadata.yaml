@@ -1,0 +1,46 @@
+_repo: Half-a-Century_12052
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swisshelm, Jane Grey Cannon
+    birthdate: 1815
+    deathdate: 1884
+    gutenberg_agent_id: '4199'
+    url: http://www.gutenberg.org/2009/agents/4199
+description: At the beginning of her autobiography, Jane Swisshelm announces that
+  she intends to show the relationship of faith to the antislavery struggle, to record
+  incidents characteristic of slavery, to provide an inside look at hospitals during
+  the Civil War, to look at the conditions giving rise to the nineteenth-century struggle
+  for women's rights, and to demonstrate, through her own life, the "mutability of
+  human character." After her father's death in 1823, she helped support her family
+  through hard work and teaching school. Her marriage in 1836 to James Swisshelm,
+  a Methodist farmer's son, resulted in continual conflict with her husband's family,
+  who sought to convert her to their own beliefs. After a few years in Louisville,
+  Kentucky, where Swisshelm observed slavery first-hand, she left her husband to nurse
+  her mother in Pittsburgh. She wrote several articles for the antislavery Spirit
+  of Liberty and the Pittsburgh Commercial Journal, then in 1848 started her own anti-slavery
+  newspaper, the Pittsburg Saturday Visiter [sic]. Her views on slavery, women's issues,
+  and the Mexican- American War soon attracted a national readership. In 1856 she
+  started another abolitionist paper, the Democrat, and began to lecture frequently
+  on slavery and the legal disabilities of women. She opposed those who advocated
+  leniency for the leaders of the 1862 Sioux uprising, and took her cause to Washington,
+  D.C., on the advice of state officials. While there she secured a position nursing
+  wounded Union soldiers and raising supplies for their benefit. Her narrative ends
+  with her discharge and retirement to an old log block house on ten acres of her
+  husband's family holdings.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Women''s rights -- United States'
+- !lcsh 'Swisshelm, Jane Grey Cannon, 1815-1884'
+- !lcsh 'Antislavery movements -- United States'
+- GITenberg
+title: Half a Century
+url: http://www.gutenberg.org/ebooks/12052
