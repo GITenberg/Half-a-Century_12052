@@ -1,5 +1,8 @@
 _repo: Half-a-Century_12052
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Swisshelm, Jane Grey Cannon
@@ -28,6 +31,8 @@ description: At the beginning of her autobiography, Jane Swisshelm announces tha
   wounded Union soldiers and raising supplies for their benefit. Her narrative ends
   with her discharge and retirement to an old log block house on ten acres of her
   husband's family holdings.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12052#Half-a-Century
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
